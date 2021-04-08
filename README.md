@@ -1,2 +1,2 @@
-# Battle-Neighbourhood
-Capstone project for IBM data science profession certificate
+# Battle-Neighborhood
+Capstone project for IBM data science professional certificate
